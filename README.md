@@ -6,6 +6,9 @@ Home assistants require special phrases called hotwords to get activated (e.g., 
 
 <https://user-images.githubusercontent.com/44740048/139785995-3330d65a-cfe1-4e92-8769-ee389a122acc.mp4>
 
+### Try it on browser here
+https://ant-brain.github.io/EfficientWord-Net-InBrowser-Hotword-Detection/
+
 ## Access Training File
 
 [Training File](./training.ipynb) to access the training file.
